@@ -14,12 +14,11 @@ function init() {
         alert("Hurray!");
 
         index = 0;
-      } 
+      }
     } else {
       index = 0;
     }
   }
-
 }
 
 // // Key codes for A, B, and C keys.
